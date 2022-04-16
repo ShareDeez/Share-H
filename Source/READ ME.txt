@@ -1,0 +1,6 @@
+1. Extract the files.
+2. Double click 'Share-H.exe'
+3. Paste in your scripts.
+4. If you wish to save your scripts put them in 'Scripts'
+
+If you have any problems message me on discord Share#0049
